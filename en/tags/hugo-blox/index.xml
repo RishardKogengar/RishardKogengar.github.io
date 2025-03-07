@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://rishardkogengar.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://rishardkogengar.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rishardkogengar.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://rishardkogengar.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://rishardkogengar.github.io/en/post/01/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishardkogengar.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели-&#34;&gt;Итоги недели 📅&lt;/h2&gt;
+&lt;p&gt;Эта неделя была насыщенной и продуктивной. Вот несколько ключевых моментов:&lt;/p&gt;
+&lt;h3 id=&#34;-учёба&#34;&gt;🎓 Учёба&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Разобрался с основами дискретной математики — множества, логика, булевы функции.&lt;/li&gt;
+&lt;li&gt;В программировании углубился в работу с указателями в C++. Интересная, но местами коварная тема.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-практика&#34;&gt;🔧 Практика&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Освоил работу с GitHub, научился делать pull request и разбирать конфликты.&lt;/li&gt;
+&lt;li&gt;Написал небольшой скрипт на Python для автоматизации скучных задач.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-саморазвитие&#34;&gt;📖 Саморазвитие&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Прочитал несколько глав из &amp;ldquo;Чистой архитектуры&amp;rdquo; Роберта Мартина.&lt;/li&gt;
+&lt;li&gt;Начал изучать основы Docker, понял, насколько это мощный инструмент.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-вывод&#34;&gt;⚡ Вывод&lt;/h3&gt;
+&lt;p&gt;Неделя прошла полезно, но всегда есть куда расти. В планах — больше практики и погружение в алгоритмы.&lt;br&gt;
+Как прошла ваша неделя? Делитесь в комментариях! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
