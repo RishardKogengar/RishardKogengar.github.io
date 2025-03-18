@@ -5,12 +5,45 @@
     <link>https://rishardkogengar.github.io/publication/</link>
       <atom:link href="https://rishardkogengar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rishardkogengar.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
       <link>https://rishardkogengar.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Введение в LaTeX</title>
+      <link>https://rishardkogengar.github.io/publication/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishardkogengar.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;языки-разметки-и-их-роль-введение-в-latex&#34;&gt;Языки разметки и их роль. Введение в LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;что-такое-языки-разметки&#34;&gt;Что такое языки разметки?&lt;/h2&gt;
+&lt;p&gt;Языки разметки — это специальные системы для оформления и структурирования текста. Они используются в самых разных областях: от веб-разработки до научных публикаций.&lt;/p&gt;
+&lt;p&gt;Некоторые популярные языки разметки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — основа веб-страниц, используется для создания и форматирования контента в интернете.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — удобен для написания документации, заметок, статей, а также активно применяется в GitHub.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — мощный инструмент для работы с научными и техническими документами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;latex-зачем-он-нужен&#34;&gt;LaTeX: зачем он нужен?&lt;/h2&gt;
+&lt;p&gt;LaTeX — это система для подготовки документов, которая позволяет оформлять тексты профессионального уровня. В отличие от обычных текстовых редакторов, где пользователь вручную форматирует текст, в LaTeX все строится на разметке, что делает процесс более структурированным и автоматизированным.&lt;/p&gt;
+&lt;h3 id=&#34;преимущества-latex&#34;&gt;Преимущества LaTeX:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Идеальная типографика&lt;/strong&gt; — текст выглядит аккуратно и профессионально.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Удобство работы с формулами&lt;/strong&gt; — LaTeX широко применяется в математике, физике и инженерии.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация ссылок, библиографий и оглавлений&lt;/strong&gt; — особенно полезно для больших научных работ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость в оформлении&lt;/strong&gt; — можно настраивать макеты страниц, добавлять графики, таблицы и многое другое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-применяется-latex&#34;&gt;Где применяется LaTeX?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;В научных и технических публикациях.&lt;/li&gt;
+&lt;li&gt;В написании дипломных и курсовых работ.&lt;/li&gt;
+&lt;li&gt;В документации к сложным проектам.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Несмотря на то, что LaTeX требует времени на изучение, его возможности делают его незаменимым инструментом для профессионального оформления текстов. Если работа связана с научными публикациями или технической документацией, LaTeX — один из лучших выборов!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями</title>
