@@ -5,12 +5,29 @@
     <link>https://rishardkogengar.github.io/post/</link>
       <atom:link href="https://rishardkogengar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rishardkogengar.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://rishardkogengar.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://rishardkogengar.github.io/post/04/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rishardkogengar.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;-апдейт-за-неделю&#34;&gt;🧾 Апдейт за неделю&lt;/h2&gt;
+&lt;p&gt;Неделя была довольно насыщенной, и вот что удалось выжать по максимуму:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Наконец-то допилил backend для учебного проекта на Flask — подключение базы, валидация форм, авторизация. Теперь всё выглядит (и работает) как надо.&lt;/li&gt;
+&lt;li&gt;Разобрал кейс по Data Mining — кластеризация клиентов с помощью KMeans в sklearn. Удивился, насколько быстро можно найти закономерности, если правильно подготовить данные.&lt;/li&gt;
+&lt;li&gt;На паре по экономике ИТ прошлись по теме цифровой трансформации бизнеса — много идей, как можно автоматизировать процессы даже в небольших компаниях.&lt;/li&gt;
+&lt;li&gt;Понемногу начинаю нащупывать тему для курсовой. Есть мысли сделать анализ пользовательского поведения в веб-приложениях с визуализацией в Power BI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В общем: код писался, идеи записывались, и даже времени на отдых чуть-чуть осталось.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
